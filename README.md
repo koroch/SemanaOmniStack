@@ -12,7 +12,7 @@
 <br>
 ### Uma palinha:
 <p align="center">
-  <img src="" width="1000px"/>
+  <img src="/BeTheHero.gif" width="1000px"/>
 </p>
 
 ### Tecnologias:
