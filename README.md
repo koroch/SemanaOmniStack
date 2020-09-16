@@ -17,5 +17,6 @@
 
 ### Tecnologias:
 - HTML5, CSS3, JS, React, React-Native, Chocolatey, Node.js, sqlite... 
-
+<br>
+<br>
 Valeu rocketseat.com.br ✌ 
