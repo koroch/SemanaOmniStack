@@ -5,12 +5,12 @@
 <br>
 <br>
 </h1>
-# <p align="center">Projeto Full-stack, com React e mobile com React-native ⚛💻📲</p>
+<p align="center">Projeto Full-stack, com React e mobile com React-native ⚛💻📲</p>
 
 <p align="center"> Aplicação web e mobile para controle e cadastro de ONG's.</p>
 <br>
 <br>
-## Uma palinha:
+### Uma palinha:
 <p align="center">
   <img src="" width="1000px"/>
 </p>
