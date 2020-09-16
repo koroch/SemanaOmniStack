@@ -9,7 +9,7 @@
 
 <p align="center"> Aplicação web e mobile para controle e cadastro de ONG's.</p>
 <br>
-<br>
+
 ### Uma palinha:
 <p align="center">
   <img src="/BeTheHero.gif" width="1000px"/>
