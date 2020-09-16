@@ -1,10 +1,10 @@
 # <p align="center">Be The Hero! 👨‍💻 </p>
-
+<h1 align="center">
 <br>
   <img src="/Aulas/frontend/src/assets/logo.svg" alt="BeTheHero" width="170">
 <br>
 <br>
-
+</h1>
 ## <p align="center">Projeto Full-stack, com React e mobile com React-native ⚛💻📲</p>
 
 # <p align="center"> Aplicação web e mobile para controle e cadastro de ONG's.</p>
